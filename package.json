@@ -1,0 +1,11 @@
+{
+  "name": "srra-100daysof-codingchallenge",
+  "version": "1.0.0",
+  "description": "45 assignments (100 days of coding challenge)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syeda rohab rashid ali",
+  "license": "MIT"
+}
